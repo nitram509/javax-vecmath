@@ -1,0 +1,7 @@
+/.idea
+*.iml
+/out
+/nbproject
+/target
+/build
+/dist
